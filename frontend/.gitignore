@@ -1,5 +1,5 @@
-#virtual environment dir
-env/
+#local host for vit api
+.env
 
 # Logs
 logs
