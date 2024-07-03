@@ -6,12 +6,12 @@
     margin: 50px auto;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    max-width: 400px;
+    box-shadow: rgb(rgb(64, 63, 63));
+    max-width: 400vh;
 }
   
 .form-input {
-    width: 90%;
+    width: 95%;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
@@ -23,7 +23,7 @@
     width: 95%;
     padding: 10px;
     margin: 20px 0;
-    background-color: #007bff;
+    background-color: #040d17;
     color: white;
     border: none;
     border-radius: 4px;
