@@ -1,9 +1,10 @@
 import axios from "axios"
 import { ACCESS_TOKEN } from "./constants"
 
+const apiUrl = "/choreo-apis/djangoreactnotes/backend/v1";
 const api = axios.create({
-    baseURL: import.meta.env.VITE_API_URL //Import anything specified inside env variable
-})
+    baseURL: import.meta.env.VITE_API_URL ? import.meta.env.VITE_API_URL : apiUrl,//Import anything specified inside env variable
+});
 
 api.interceptors.request.use(
     (config) => {
