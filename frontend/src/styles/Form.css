@@ -5,9 +5,13 @@
     justify-content: center;
     margin: 50px auto;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: rgb(rgb(64, 63, 63));
     max-width: 400vh;
+}
+
+h1 {
+    text-align: center;
 }
   
 .form-input {
@@ -26,7 +30,7 @@
     background-color: #040d17;
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 20px;
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
 }
