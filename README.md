@@ -18,4 +18,4 @@ This project allowed me to learn how to create a full-stack web application usin
 ![Login Page](images/Login_Shot.png)
 
 - Screenshot 3: Notes Page
-![Main App Page](images/Notes_Shot.png)
+![Main App Page]
