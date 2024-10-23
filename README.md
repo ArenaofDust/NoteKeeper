@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project allowed me to learn how to create a full-stack web application using Python and JavaScript utilizing:
+This project allowed me to learn how to create a full-stack web application with Python and JavaScript utilizing:
 
 - Backend development with Django
 - Frontend development with React
